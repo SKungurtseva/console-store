@@ -1,2 +1,2 @@
-# console-store
+# test
 Заливаем проект через GitHub Desktop
